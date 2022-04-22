@@ -4,7 +4,9 @@ Hi 👋 My name is Andrea Diaz
 Frontend Developer
 ------------------
 
-Desarrolladora de aplicaciones web con conocimientos sobre maquetación en HTML y CSS de manera responsiva partiendo del principio Mobile First, tengo conocimientos de tecnologias JavaScript, C#, se usar la libreria React y Node.js, adicionalmente cuento con conocimientos de patrones de arquitectura como MVC con el framework .Net Core para el desarrollo de aplicaciones web Resume: Front-end developer web with knowledge of HTML and CSS with responsive design based on the Mobile First principle, I also have knowledge of JavaScript, C#, with the React library and Node.js, additionally I have knowledge of architecture patterns such as MVC with the .Net Core framework for web application development.
+Desarrolladora de aplicaciones web con conocimientos sobre maquetación en HTML y CSS de manera responsiva partiendo del principio Mobile First, tengo conocimientos de tecnologias JavaScript, C#, se usar la libreria React y Node.js, adicionalmente cuento con conocimientos de patrones de arquitectura como MVC con el framework .Net Core para el desarrollo de aplicaciones web 
+<br>
+Resume: Front-end developer web with knowledge of HTML and CSS with responsive design based on the Mobile First principle, I also have knowledge of JavaScript, C#, with the React library and Node.js, additionally I have knowledge of architecture patterns such as MVC with the .Net Core framework for web application development.
 
 * 🌍  I'm based in Bogota, CO
 * 🖥️  See my portfolio at [https://pandrea-hub.github.io/Portafolio/](http://pandrea-hub.github.io/Portafolio/)
