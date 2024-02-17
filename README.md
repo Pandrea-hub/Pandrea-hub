@@ -1,21 +1,22 @@
 Hi 👋 My name is Andrea Diaz
 ============================
 
-Frontend Developer
+Web Developer
 ------------------
 
-Desarrolladora de aplicaciones web con conocimientos sobre maquetación en HTML y CSS de manera responsiva partiendo del principio Mobile First, tengo conocimientos de tecnologias JavaScript, C#, se usar la libreria React y Node.js, adicionalmente cuento con conocimientos de patrones de arquitectura como MVC con el framework .Net Core para el desarrollo de aplicaciones web 
-<br>
-Resume: Front-end developer web with knowledge of HTML and CSS with responsive design based on the Mobile First principle, I also have knowledge of JavaScript, C#, with the React library and Node.js, additionally I have knowledge of architecture patterns such as MVC with the .Net Core framework for web application development.
+Software developer with +2 years of experience looking to implement new technologies and good practices to create scalable and good performant web apps, I also always seek to help my work team to achieve a good end-user experience in the applications.
 
 * 🌍  I'm based in Bogota, CO
 * 🖥️  See my portfolio at [https://pandrea-hub.github.io/Portafolio/](http://pandrea-hub.github.io/Portafolio/)
 * ✉️  You can contact me at [andreavividf12@gmail.com](mailto:andreavividf12@gmail.com)
-* 🧠  I'm learning React, Node JS, ASP.NET Core
+* 🧠  I'm learning Golang, Kotlin, React
+* 👩🏽‍💻  I love learning everything
 
 ### Skills
 
 <p align="left">
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Golang" /></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
